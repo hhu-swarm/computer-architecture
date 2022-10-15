@@ -1,0 +1,3 @@
+[submodule "libtex"]
+	path = libtex
+	url = https://github.com/hhu-swarm/libtex
